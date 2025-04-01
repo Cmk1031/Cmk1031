@@ -18,7 +18,10 @@
 
 <h2> 창고관리시스템-CLI </h2>
 
-[![image](https://github.com/user-attachments/assets/9aa761e1-26cb-4847-a600-6ca7674e41db)](https://github.com/Cmk1031/Prokin-Donuts-CLI)
+<a href="https://github.com/Cmk1031/Prokin-Donuts-CLI">
+    <img src="https://github.com/user-attachments/assets/9aa761e1-26cb-4847-a600-6ca7674e41db" width="700">
+</a>
+
+<p>사진을 클릭하면 창고관리시스템-CLI 레포지토리로 이동합니다!</p>
 
 
-[![Prokin-Donuts](https://github.com/Cmk1031/Prokin-Donuts-CLI)] <- 프로젝트 주소 
