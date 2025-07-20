@@ -14,7 +14,7 @@
 
 <h2> 창고관리시스템-WEB</h2>
 
-<a href="https://github.com/Cmk1031/Prokin-Donuts-CLI">
+<a href="https://github.com/Cmk1031/Prokin-Donuts-Web">
     <img src="https://github.com/user-attachments/assets/9aa761e1-26cb-4847-a600-6ca7674e41db" width="700">
 </a>
 
